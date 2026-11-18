@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Dhanashree Jejurkar! 👋
 
-<!--
-**dhanashreejejurkar-art/dhanashreejejurkar-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Computer Engineering Graduate | Full Stack Developer Intern
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about web development and enjoy building practical and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Interested in Full Stack Web Development.
+- 💻 Working with React.js, JavaScript, Node.js and Express.js.
+- 🗄️ Exploring MongoDB and MySQL.
+- 🤝 Worked on Travsolo, a team-based travel planning project.
+- 🚀 Always eager to learn new technologies and build creative solutions.
+
+### 🛠️ Technical Skills
+
+**Frontend:** HTML5, CSS3, JavaScript, React.js, Bootstrap, Tailwind CSS
+
+**Backend:** Node.js, Express.js
+
+**Database:** MongoDB, MySQL
+
+**Programming Languages:** C++, Python
+
+**Tools:** Git, GitHub, VS Code, Canva
+
+### 🚀 Featured Projects
+
+**Travsolo – Travel Planning Platform**
+
+A team-based project focused on making travel planning easier.
+
+- Explore travel destinations.
+- Find hotel stays and travel information.
+- Discover interesting places.
+- Explore travel blogs and resources.
+
+🔗 [View Travsolo Repository](https://github.com/dhanashreejejurkar-art/Travsolo)
+
+### 🎓 Education
+
+Computer Engineering Graduate
+
+### 🤝 Connect With Me
+
+- LinkedIn: [Dhanashree Jejurkar](https://www.linkedin.com/in/dhanashree-jejurkar-2a1b24294/)
+- GitHub: [dhanashreejejurkar-art](https://github.com/dhanashreejejurkar-art)
+
+---
+
+⭐ Thanks for visiting my profile!
